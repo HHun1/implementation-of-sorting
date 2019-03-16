@@ -1,0 +1,35 @@
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\bin\Debug\MetroCourseWork.exe.config
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\bin\Debug\MetroCourseWork.exe
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\bin\Debug\MetroCourseWork.pdb
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\bin\Debug\MetroFramework.Design.dll
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\bin\Debug\MetroFramework.dll
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form1.resources
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Properties.Resources.resources
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.csproj.GenerateResource.Cache
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.exe
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.pdb
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form2.resources
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form3.resources
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form4.resources
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form5.resources
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form6.resources
+C:\Users\Виктория\Desktop\CG\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.csprojResolveAssemblyReference.cache
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\bin\Debug\MetroCourseWork.exe.config
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\bin\Debug\MetroCourseWork.exe
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\bin\Debug\MetroCourseWork.pdb
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\bin\Debug\MetroFramework.Design.dll
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\bin\Debug\MetroFramework.dll
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.csprojResolveAssemblyReference.cache
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form1.resources
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form2.resources
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form3.resources
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form4.resources
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form5.resources
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Form6.resources
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.Properties.Resources.resources
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.csproj.GenerateResource.Cache
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.exe
+C:\Users\DNS-client\Desktop\pr\kursa\Курсовая ООП\MetroCourseWork\MetroCourseWork\obj\Debug\MetroCourseWork.pdb
